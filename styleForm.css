@@ -1,0 +1,21 @@
+body {
+	background-color: grey;
+}
+
+.main-content {
+	margin-top: 200px;
+}
+
+.card {
+	width: 400px;
+	padding: 10px;
+}
+
+.btn-primary {
+	background-color: grey;
+}
+
+.btn-primary:hover {
+	background-color: black;
+	cursor: pointer;
+}
